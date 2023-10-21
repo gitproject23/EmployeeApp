@@ -21,8 +21,7 @@ public String example(Model model) {
 
     @GetMapping("/cnuu")
     public String saveEmployees(){
-        System.out.println("Hello");
-
+        System.out.println("Hello sreenuNaik");
         return "hello sreenu";
     }
 }
